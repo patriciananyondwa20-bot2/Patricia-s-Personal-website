@@ -1,4 +1,4 @@
- body {
+        .body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -67,7 +67,7 @@
         
 
 
-        h3 {
+        .h3 {
             text-align: center;
             color: #282727;
         }
@@ -115,4 +115,5 @@
             .profile-links {
                 margin-top: 10px;
             }
+
         }
